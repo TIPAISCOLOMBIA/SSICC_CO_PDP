@@ -1,0 +1,6 @@
+git init
+git add
+git diff
+git pull origin master
+git remote add origin https://github.com/TIPAISCOLOMBIA/SSICC_CO_PDP
+git push --force origin master
